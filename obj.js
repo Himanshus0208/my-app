@@ -1,3 +1,3 @@
 const obj = { name: "himanshu" };
 
-const newObj = { name: "vsCode" };
+const newObj = { name: "disha" };
